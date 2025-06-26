@@ -1,0 +1,5 @@
+uqlm
+streamlit
+langchain-google-genai
+langchain-openai
+python-dotenv
